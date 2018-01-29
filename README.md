@@ -30,7 +30,7 @@ My first GitHub project
   ##这里的代码O不OK
   
   |给大家来个表格|diyici|用markdown|
-  |---|---|---|
+  |---|:---|:---|
   |ojbk|第一次|试一下效果|
   
  [去百度](http://www.baidu.com/)
